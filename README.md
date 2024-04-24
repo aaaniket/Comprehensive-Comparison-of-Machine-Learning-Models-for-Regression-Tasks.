@@ -1,4 +1,4 @@
-# Comprehensive-Comparison-of-Machine-Learning-Models-for-Regression-Tasks.
+# Comprehensive Comparison of Machine Learning Models for Regression Tasks.
 
 ## Description:
 
